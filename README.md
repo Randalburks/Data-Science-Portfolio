@@ -5,21 +5,23 @@ Welcome to my data science portfolio! This repository highlights selected projec
 ## Projects
 
 ### [Skin Tone Detection Using Image Segmentation and PCA](https://github.com/Randalburks/Skin-Tone-Detection-Using-Image-Segmentation-and-PCA)
-- Applied image segmentation and Principal Component Analysis (PCA) to detect and cluster skin tone ranges.
-- Demonstrated preprocessing, dimensionality reduction, and computer vision techniques.
+- Implemented image preprocessing and segmentation techniques to isolate skin regions from images.  
+- Applied Principal Component Analysis (PCA) for dimensionality reduction and clustering of skin tone ranges.  
+- Demonstrated how computer vision and statistical modeling can be combined to explore bias and diversity considerations in image data.  
 
 ### [Image Classification Using Naive Bayes](https://github.com/Randalburks/Image-Classification-Using-Naive-Bayes)
-- Built a Naive Bayes classifier to distinguish between real platypus images and animated character images.
-- Implemented feature extraction and probabilistic modeling.
+- Built a Naive Bayes classifier to distinguish between real animal images and animated character images.  
+- Engineered features such as color profiles, presence/absence of specific attributes, and positioning for classification.  
+- Showcased the application of probabilistic modeling and feature independence assumptions in image recognition tasks.  
 
-### [Customer Sentiment Analysis of E-Commerce Reviews](https://github.com/Randalburks/Customer-Sentiment-Analysis-of-Women-s-Clothing-E-Commerce-Review-.git)
-- Performed text sentiment analysis on women’s clothing reviews.
-- Applied natural language processing (NLP), topic modeling, and clustering to reveal insights.
+### [Customer Sentiment Analysis of E-Commerce Reviews](https://github.com/Randalburks/Customer-Sentiment-Analysis-of-Women-s-Clothing-E-Commerce-Review-)
+- Conducted natural language processing (NLP) on 20,000+ customer reviews from a women’s clothing e-commerce dataset.  
+- Performed sentiment classification, topic modeling, and clustering to extract key themes and consumer insights.  
+- Compared text-based sentiment with star ratings to evaluate alignment between written feedback and quantitative scoring.  
+- Produced visualizations to communicate customer pain points and opportunities for product improvement.  
 
 
 ---
-
-## About Me
 
 ## About Me
 
