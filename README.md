@@ -16,12 +16,16 @@ Welcome to my data science portfolio! This repository highlights selected projec
 - Performed text sentiment analysis on women’s clothing reviews.
 - Applied natural language processing (NLP), topic modeling, and clustering to reveal insights.
 
-### [Population Growth Modeling](https://github.com/Randalburks/PopulatonGrowth-GroupMRH)
-- Modeled population growth dynamics using logistic regression and rule-based classifiers.
-- Compared predictive models and visualized results.
 
 ---
 
 ## About Me
-I am a Master of Science in Data Science student at Michigan State University with a background in biology and experience in research, machine learning, and product management.  
+
+## About Me
+
+I am a Master of Science in Data Science student at Michigan State University with a passion for using data to drive innovation and impact. My work spans machine learning, natural language processing, and visualization, where I focus on transforming complex datasets into clear insights and practical solutions.  
+
+What inspires me most is the opportunity to use data science not just for analysis, but to tell stories, spark ideas, and empower better decision-making. I am driven to keep growing as a data scientist and innovator, seeking opportunities to combine technical expertise, creativity, and purpose to shape the future of technology, business, and beyond.  
+ 
+ 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/randal-burks) or view my [GitHub profile](https://github.com/Randalburks).
