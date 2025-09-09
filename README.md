@@ -12,7 +12,7 @@ Welcome to my data science portfolio! This repository highlights selected projec
 - Built a Naive Bayes classifier to distinguish between real platypus images and animated character images.
 - Implemented feature extraction and probabilistic modeling.
 
-### [Customer Sentiment Analysis of E-Commerce Reviews](https://github.com/Randalburks/Customer-Sentiment-Analysis-of-Women-s-Clothing-E-Commerce-Review-)
+### [Customer Sentiment Analysis of E-Commerce Reviews](https://github.com/Randalburks/Customer-Sentiment-Analysis-of-Women-s-Clothing-E-Commerce-Review-.git)
 - Performed text sentiment analysis on women’s clothing reviews.
 - Applied natural language processing (NLP), topic modeling, and clustering to reveal insights.
 
