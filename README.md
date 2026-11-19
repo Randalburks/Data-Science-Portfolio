@@ -36,9 +36,11 @@ Welcome to my data science portfolio! This repository highlights selected projec
 
 ## About Me
 
-I am a Master of Science in Data Science student at Michigan State University with a passion for using data to drive innovation and impact. My work spans machine learning, natural language processing, and visualization, where I focus on transforming complex datasets into clear insights and practical solutions.  
+I am a data science professional with a Master of Science in Data Science from Michigan State University and a background spanning business intelligence, product management, machine learning, and predictive analytics. My experience includes developing enterprise dashboards, building data pipelines, analyzing consumer behavior, and creating forecasting models that transform complex datasets into actionable insights and measurable business outcomes.
 
-What inspires me most is the opportunity to use data science not just for analysis, but to tell stories, spark ideas, and empower better decision-making. I am driven to keep growing as a data scientist and innovator, seeking opportunities to combine technical expertise, creativity, and purpose to shape the future of technology, business, and beyond.  
+Throughout my work across education, healthcare, and eCommerce, I have developed a passion for connecting technical innovation with business strategy. From designing scalable analytics solutions and improving data accessibility to identifying consumer trends and optimizing operational decisions, I enjoy bridging the gap between data, technology, and the people who rely on them.
+
+What motivates me most is the opportunity to move beyond simply analyzing data to creating solutions that solve meaningful problems, improve decision-making, and drive innovation. I am particularly interested in the intersection of data science, artificial intelligence, and product development, where analytical thinking, creativity, and strategic vision come together to shape impactful technologies and experiences.
  
  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/randal-burks) or view my [GitHub profile](https://github.com/Randalburks).
